@@ -1,1 +1,1 @@
-# SmiTTR77.gethub.io
+# SmiTTR77.github.io
