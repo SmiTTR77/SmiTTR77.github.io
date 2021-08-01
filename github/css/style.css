@@ -1,0 +1,81 @@
+body	{
+margin: 0;
+background-color: #f6f6f6;
+}
+
+.logo {
+	display: block;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	background-color: black;
+}
+
+h2 {
+	font-weight: bold;
+}
+.wrap {
+	margin: 8px;
+}
+
+.bck_btn {
+	font-size: large;
+	font-family: courier;
+}
+
+.numb_ol {
+	margin: 30px;
+	padding-left: 45px;
+	border: 2px solid #000;
+	font-size: xx-large;
+}
+
+.at_work{
+	font-size: xx-large;
+	color: black;
+	text-decoration: line-through;
+}
+
+.worked{
+	font-size: xx-large;
+	color: red;
+}
+
+.text {
+	background: white;
+	font-size: 20px;
+	text-align: justify;
+	padding: 20px;
+	border: 2px solid #000; 
+}
+
+.input {
+  display: inline-block;
+}
+
+.span {
+  display: none;
+  font-style: italic;
+}
+
+.showSpan {
+  display: inline-block;
+}
+
+
+/** body {
+	margin: 0;
+	padding: 0;
+}*/
+
+/*.t {
+	display: inline-block;
+	background: blue;
+	height: 100px;
+	width: 25%;
+	margin-left: -4px;
+}*/
