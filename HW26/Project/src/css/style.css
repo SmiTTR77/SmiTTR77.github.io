@@ -237,9 +237,4 @@ input[type="text"] {
 	transform: scaleX(1);
 	transform: rotate(-43deg);
 }
-@media (min-width: 200px) and (max-width: 800px) {
-	*{
-		width: 50%;
-		height: 50%;
-	}
-}
+
