@@ -238,7 +238,7 @@ input[type="text"] {
 	transform: rotate(-43deg);
 }
 @media (min-width: 200px) and (max-width: 800px) {
-	body {
+	*{
 		width: 50%;
 		height: 50%;
 	}
